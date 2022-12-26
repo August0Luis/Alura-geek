@@ -1,0 +1,15 @@
+.cabecalho__pesquisa {
+    width: 393px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: #f5f5f5;
+    padding-left: 25px;
+    background-image: url(../../imagens/pesquisa.png);
+    background-repeat: no-repeat;
+    background-position: 96%;
+}
+
+.cabecalho__pesquisa::placeholder {
+    color: #A2A2A2;
+}

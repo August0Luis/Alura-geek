@@ -1,0 +1,10 @@
+.banner__botao {
+    color: #ffffff;
+    background-color: #2A7AE4;
+    position: absolute;
+    border: none;
+    top: 75%;
+    text-align: center;
+    width: 130px;
+    height: 51px;
+}

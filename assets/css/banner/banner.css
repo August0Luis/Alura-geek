@@ -1,0 +1,8 @@
+.banner {
+    position: relative;
+}
+
+.banner__conteudo {
+    max-width: 1136px;
+    margin: 0 auto ;
+}
