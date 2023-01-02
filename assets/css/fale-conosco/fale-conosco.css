@@ -1,0 +1,63 @@
+.faleconosco {
+    background-color: #EAF2FD;
+    padding: 64px 0 64px 0;
+}
+
+.faleconosco__conteudo {
+    max-width: 1136px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.faleconosco__links ul li {
+    padding-bottom: 24px;
+}
+
+.faleconosco__links ul li a {
+    text-decoration: none;
+    color: #464646;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.faleconosco__form-titulo {
+    font-size: 16px;
+    font-weight: 700;
+    color: #464646;
+    padding-bottom: 8px;
+}
+
+.faleconosco__form-nome {
+    width: 100%;
+    height: 53px;
+    margin-bottom: 16px;
+    padding: 5px;
+    border: 0;
+}
+
+.faleconosco__form-texto {
+    width: 100%;
+    height: 82px;
+    margin-bottom: 8px;
+    padding: 5px;
+    border: 0;
+}
+
+.faleconosco__form-botao {
+    width: 165px;
+    height: 51px;
+    background-color: #2A7AE4;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    border: 0;
+}
+
+footer {
+    height: 102px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

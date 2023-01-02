@@ -1,0 +1,56 @@
+main {
+    background-color: #E5E5E5;
+}
+
+.produtoshome {
+    display: flex;
+    max-width: 1136px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.produtoshome__cabecalho {
+    display: flex;
+    max-width: 1136px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 16px;
+}
+
+.produtoshome__cabecalho-titulo {
+    font-size: 32px;
+    font-weight: 700;
+    color: #464646;
+}
+
+.produtoshome__cabecalho-botao {
+    background-color: #2A7AE4;
+    color: white;
+    border: none;
+    width: 164px;
+    height: 51px;
+}
+
+.produtoshome__cards {
+    padding-bottom: 64px;
+    position: relative;
+    padding-left: 10px;
+}
+
+.produtoshome__cards .remove {
+    position: absolute;
+    top: 3%;
+    left: 85%;
+    background: none;
+    border: none;
+}
+
+.produtoshome__cards .edita {
+    position: absolute;
+    top: 3%;
+    left: 70%;
+    background: none;
+    border: none;
+}

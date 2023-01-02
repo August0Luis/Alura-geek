@@ -13,3 +13,9 @@
 .cabecalho__pesquisa::placeholder {
     color: #A2A2A2;
 }
+
+@media screen and (max-width: 600px) {
+    .cabecalho__pesquisa {
+        display: none;
+    }
+}
